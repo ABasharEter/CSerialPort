@@ -22,7 +22,7 @@ You can also see the unit test project CSerialPortTest for real coded test.
 2. Open visual studio and create a win32 c\c++ console project.
 3. Downloading and installing this library in your project.
 4. In your main source file write the following code:
-
+```
 	#include <iostream>
 	#include "CSerialPort.h"
 
@@ -39,7 +39,7 @@ You can also see the unit test project CSerialPortTest for real coded test.
 		ClosePort(p2);
 		return 0;
 	}
-
+```
 5. compile and run this file.
 
 # License
