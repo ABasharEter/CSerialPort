@@ -18,10 +18,10 @@ the project in Visual Studio then include CSerialPort.h file.
 This walk throw will help you create a simple project.
 You can also see the unit test project CSerialPortTest for real coded test.
 
-1- Connect the serial port number 1 to the serial port number 2 in your machine.
-2- Open visual studio and create a win32 c\c++ console project.
-3- Downloading and installing this library in your project.
-4- In your main source file write the following code:
+1. Connect the serial port number 1 to the serial port number 2 in your machine.
+2. Open visual studio and create a win32 c\c++ console project.
+3. Downloading and installing this library in your project.
+4. In your main source file write the following code:
 
 	#include <iostream>
 	#include "CSerialPort.h"
@@ -40,7 +40,7 @@ You can also see the unit test project CSerialPortTest for real coded test.
 		return 0;
 	}
 
-5- compile and run this file.
+5. compile and run this file.
 
 # License
 This project is done by Ahmad Bashar Eter and provided under MIT License.
